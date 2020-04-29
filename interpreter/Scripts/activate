@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="Z:\OneDrive\Python\Djanco-curso\interpreter"
+VIRTUAL_ENV="Z:\OneDrive\Python\Django-curso\interpreter"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
